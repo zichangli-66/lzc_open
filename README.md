@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/zichangli-66/lzc_open)
 # ODW-Chassis-2025
 2025赛季全向轮步兵底盘代码
 # 提交规范
