@@ -1,0 +1,36 @@
+
+GraphedExpression="(Cap).Power_Chassis", Color=#a00909
+GraphedExpression="(Cap).Power_In", Color=#09a01b
+GraphedExpression="(Power_Control).Power_Limit", Color=#09a087
+OpenDocument="main.c", FilePath="D:/Robomaster/ODW-Chassis/Src/main.c", Line=55
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=397, h=426, TabPos=1, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=773, h=124, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=397, h=426, TabPos=0, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Terminal", DockArea=BOTTOM, x=0, y=0, w=1142, h=290, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=1, y=0, w=237, h=290, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=RIGHT, x=0, y=1, w=773, h=315, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="500 ms / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="468;0", PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="339;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="345;0"
+OpenWindow="Console", DockArea=BOTTOM, x=2, y=0, w=155, h=290, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[232;259;100;100]
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[233;100;100;100;728]
+TableHeader="Data Sampling Table", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" (Cap).Power_Chassis";" (Cap).Power_In";" (Power_Control).Power_Limit"], ColWidths=[100;100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Min. Change", SortOrder="DESCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[308;100;100;100;100;100;100;100;100]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Task List", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Run Count";"Priority";"Status";"Timeout";"Stack Info (Free / Size)";"ID";"Mutex Count";"Notified Value";"Notify State"], ColWidths=[110;110;110;110;110;110;110;110;110;110]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;359]
+WatchedExpression="Chassis", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="bullet_speed", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="shoot_data", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="robot_state", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="judgement_receive", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="Gimbal", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="remote_control", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="RC_Data_Buf", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="Send_Chassis_IMU(struct __CAN_HandleTypeDef*", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="power_heat_data_t", Window=Watched Data 1
+WatchedExpression="Chassis_Measure_Power", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="Scope_power_limit", Window=Watched Data 1
+WatchedExpression="Cap", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="Power_Control", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="robot_command", RefreshRate=2, Window=Watched Data 1
